@@ -8,7 +8,7 @@ Create a Mad Libs game using user input and output the story using string format
 Print out a business card using an input function to obtain first name, last name, and email. Output using a print function that is passed in the user data. The input function should call the output function.
 
 ### Lab 4 - Triangle Detection
-Use two methods to correctly categorize 3 segments as 'triangle or 'not a triangle'. The first method should satisfy the conditional statement discusses in lab and the second method should rely on Heron's formula to categorize the segments.
+Use two methods to correctly categorize 3 segments as 'triangle or 'not a triangle'. The first method should satisfy the conditional statement discussec in lab and the second method should rely on Heron's formula to categorize the segments.
 
 ### Lab 5 - Currency Converter
 The converter should take in as user input the amount of money, currency type, and currency type to convert to. This converter should take in USD, EUR, GBP, JPY, or BRL and convert to USD, EUR, GBP, JPY, or BRL.
