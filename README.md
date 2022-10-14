@@ -15,3 +15,6 @@ The converter should take in as user input the amount of money, currency type, a
 
 ### Lab 6 - Dice Simulation
 Get user input to determine the number of trials. Then simulate rolling two dice and adding the sum for the desired number of trials. Print out a table with number, number of rolls, and percent. In part 2, pick a random number between 2 and 12 (inclusive) and create the same table. Compare the results. Then, create 2 new programs adding columns for 'expected' and 'difference' to each table.
+
+### Lab 7 - Password Checker
+Ask user to enter password and verify that it is valid, following the requirements on Canvas. If the password is not valid, ask the user to enter a new password until they enter one that is valid. After the user enters a valid password, ask them to reenter the password. Verify that it matches the first password.
