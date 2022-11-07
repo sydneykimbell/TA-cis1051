@@ -20,6 +20,6 @@ Get user input to determine the number of trials. Then simulate rolling two dice
 Ask user to enter password and verify that it is valid, following the requirements on Canvas. If the password is not valid, ask the user to enter a new password until they enter one that is valid. After the user enters a valid password, ask them to reenter the password. Verify that it matches the first password.
 
 ### Lab 8 - Lists
-Program 1: Hardcode the states and capitals lists, using the data from capitals.txt as reference. Then ask the user to enter a state and print the respective capital.
-Program 2: Read in the data from the file to create the states and capitals lists. Then use the same code from program 1 to ask the user to enter a state and print the respective capital.
+Program 1: Hardcode the states and capitals lists, using the data from capitals.txt as reference. Then ask the user to enter a state and print the respective capital.<br />
+Program 2: Read in the data from the file to create the states and capitals lists. Then use the same code from program 1 to ask the user to enter a state and print the respective capital.<br />
 Program 3: Read in the data from the file (like in program 2) and then create a game to quiz the user on states and capitals. First, ask the user if they want to be quizzes on states or capitals. Then, generate a random state/capital and continue until the user says to stop.
