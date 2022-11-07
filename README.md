@@ -23,3 +23,6 @@ Ask user to enter password and verify that it is valid, following the requiremen
 Program 1: Hardcode the states and capitals lists, using the data from capitals.txt as reference. Then ask the user to enter a state and print the respective capital.<br />
 Program 2: Read in the data from the file to create the states and capitals lists. Then use the same code from program 1 to ask the user to enter a state and print the respective capital.<br />
 Program 3: Read in the data from the file (like in program 2) and then create a game to quiz the user on states and capitals. First, ask the user if they want to be quizzes on states or capitals. Then, generate a random state/capital and continue until the user says to stop.
+
+### Lab 9 - Playing Cards
+Create a deck of cards, shuffle it, and take the first 5 cards. Create a series of tests to analyze the deck print out which of your functions return true (only one should return true). Then, print the cards from that hand. For extra credit, create 2 decks by shuffling and alternating to deal out a total of 10 cards (5 per hand). Analyze both hands and determine which one wins, based off of the rankings of poker hands (https://en.wikipedia.org/wiki/List_of_poker_hands#Hand-ranking_categories)
